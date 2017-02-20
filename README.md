@@ -1,5 +1,7 @@
 # process-events-shim [![Build Status](https://travis-ci.org/meryn/process-events-shim.png?branch=master)](https://travis-ci.org/meryn/process-events-shim) [![Dependency Status](https://david-dm.org/meryn/process-events-shim.png)](https://david-dm.org/meryn/process-events-shim)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/braveg1rl/process-events-shim.svg)](https://greenkeeper.io/)
+
 Shims process event functionality.
 
 ## Usage
